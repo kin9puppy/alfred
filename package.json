@@ -1,0 +1,12 @@
+{
+  "name": "alfred",
+  "description": "simple command line project",
+  "version": "1.0.0",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "commander": "^2.8.1",
+    "extend": "^2.0.1",
+    "node-ftp": "git+https://github.com/mscdex/node-ftp",
+    "readline": "0.0.8"
+  }
+}
